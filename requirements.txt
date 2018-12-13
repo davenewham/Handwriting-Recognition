@@ -1,0 +1,4 @@
+jupyter==4.4.0
+scikit_learn==0.20.1
+matplotlib==2.2.3
+opencv-python==3.4.4.19 
